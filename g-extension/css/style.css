@@ -1,0 +1,49 @@
+body{
+  width: 240px;
+  height: 200px;
+  color: gray;
+  font-size: 20px;
+}
+span{
+  text-align: center;
+  font-size: 20px;
+}
+#ex1Slider .slider-selection {
+  background: #BABABA;
+}
+#ex2Slider .slider-selection {
+  background: #BABABA;
+}
+#timerArea{
+  text-align: center;
+}
+.tooltip-inner{
+  display: none;
+}
+#header{
+  background: black;
+  text-align: center;
+  border-radius: 5px;
+}
+hr{
+  margin-top: 5px;
+}
+button{ 
+  /*color:#050; */
+  font: bold 84% 'trebuchet ms',helvetica,sans-serif; 
+  background-color:#fed; 
+  border:1px solid; 
+  border-color: #696 #363 #363 #696;
+  border-radius: 5px;
+}
+/*button{
+  border: 1px solid;
+  border-radius: 5px;
+}*/
+#buttonArea{
+  display: flex;
+  justify-content: space-around;
+}
+#displayTimerArea{
+  text-align: center;
+}
